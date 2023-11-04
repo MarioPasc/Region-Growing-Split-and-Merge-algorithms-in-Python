@@ -2,6 +2,14 @@ from skimage.feature import peak_local_max
 import numpy as np
 from collections import deque
 
+"""
+Created by Mario Pascual González, a bioinformatics student, as part of a project for the course "Biomedical 
+Images". 
+
+This class is open-source and may be freely used and modified. Users are encouraged to adapt and improve the 
+functions herein to meet their specific requirements or to contribute to its evolution in the spirit of collaborative 
+development.
+"""
 
 class RegionGrowingPython:
 
